@@ -1,17 +1,26 @@
 
-<head>
-  <link rel="stylesheet" href="https://jalenprim.github.io/sports-forms/forms.html">
-</head>
-
-h1 {
-	text-align:center;
-	color:blue;
-}
-
 body {
   background-image: url("https://images.squarespace-cdn.com/content/v1/58b451af03596efb0e7d5f95/67ac7306-a139-4b3d-86b8-01b0799d7b1a/oldbasketball.jpg");
+  background-width:250px;
+  background-height:200px;
+}
+
+form{
+text-weight:bold;
+color:green;
+font-family:serif;
+}
+
+h1 {
+ color:orange;
+ text-align:center;
 }
 
 ul {
   list-style-type:sqaure
 }
+
+. Sport{
+color:red;
+stype-type:sqaure;
+{
