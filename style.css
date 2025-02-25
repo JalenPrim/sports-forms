@@ -1,18 +1,13 @@
-<html>
-<head>  
-  <link rel="stylesheet" href="styles.css"> 
-</head>
-<style>
 
-<h1 style="color:red;" {
-  text-aglin: center;
-  
-};
+<head>
+  <link rel="stylesheet" href="https://jalenprim.github.io/sports-forms/forms.html">
+</head>
+
+h1 {
+	text-align:center;
+	color:blue;
+}
 
 body {
-  background-image: ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaz0RVkB2OS4sh32jFP7C-6Hh8JP9i4HiLjg&s");
-
-
-
-
-</head>
+  background-image: url("https://images.squarespace-cdn.com/content/v1/58b451af03596efb0e7d5f95/67ac7306-a139-4b3d-86b8-01b0799d7b1a/oldbasketball.jpg");
+}
